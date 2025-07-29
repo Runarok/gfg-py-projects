@@ -1,6 +1,6 @@
 # ⏲️ Countdown Timer
 
-This is my extended take on the classic **Countdown Timer** in Python, originally inspired by [this GeeksforGeeks tutorial](https://www.geeksforgeeks.org/python-countdown-timer/).
+This is my extended take on the classic **Countdown Timer** in Python, originally inspired by [this GeeksforGeeks tutorial](https://www.geeksforgeeks.org/python/how-to-create-a-countdown-timer-using-python/).
 
 ---
 
@@ -63,7 +63,7 @@ This modular script makes it easy to:
 
 This tool is a significant upgrade over the basic version here:
 
-[Python Countdown Timer – GeeksforGeeks](https://www.geeksforgeeks.org/python-countdown-timer/)
+[Python Countdown Timer – GeeksforGeeks](https://www.geeksforgeeks.org/python/how-to-create-a-countdown-timer-using-python/)
 
 While the original shows the core idea, this version expands it into a **functional, reusable timer tool** with real use-case utility — especially for productivity-focused workflows (e.g., studying, deep work blocks, task sprints).
 
