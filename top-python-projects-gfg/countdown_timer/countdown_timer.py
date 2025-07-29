@@ -20,12 +20,21 @@ def parse_time(user_input):
     except:
         return -1
 
+def draw_progress_bar(current, total, bar_length=30):
+    filled_len = int(bar_length * current // total)
+    bar = "█" * filled_len + "-" * (bar_length - filled_len)
+    percent = (current / total) * 100
+    return f"[{bar}] {percent:5.1f}%"
+
 def countdown(duration, label=""):
     print(f"\n▶️  Starting '{label or 'Unnamed Session'}' — Duration: {format_time(duration)}")
-    for remaining in range(duration, 0, -1):
-        print(f"\r⏳ {format_time(remaining)}", end="")
+    for elapsed in range(duration):
+        remaining = duration - elapsed
+        bar = draw_progress_bar(elapsed, duration)
+        time_str = format_time(remaining)
+        print(f"\r⏳ {time_str} {bar}", end="", flush=True)
         time.sleep(1)
-    print("\r⏰ Time's up!          ")
+    print("\r⏰ Time's up!                           ")
     post_timer_message()
 
 def post_timer_message():
