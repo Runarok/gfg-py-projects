@@ -1,4 +1,4 @@
-# Number Guessing Game - Improved Version
+# Number Guessing Game
 
 This is my enhanced take on the classic **Number Guessing Game** in Python, originally inspired by [this GeeksforGeeks tutorial](https://www.geeksforgeeks.org/python/number-guessing-game-in-python/).
 
@@ -21,8 +21,10 @@ This project is a modular, user-friendly number guessing game with several impro
 
 ## Code Files
 
-- **`number_guessing_game_with_color.py`** — The main game code with color output using `colorama` for an enhanced terminal experience.
-- **`number_guessing_game_no_color.py`** — A color-free version of the game for environments without color support.
+* 🔸 **[`number_guessing_game_with_color.py`](./number_guessing_game_with_color.py)** — The main game script with color output using `colorama` for a more engaging terminal experience.
+* 🔹 **[`number_guessing_game_no_color.py`](./number_guessing_game_no_color.py)** — A plain version of the game without color — ideal for basic terminal environments or systems without color support.
+
+
 
 Both scripts contain the same game logic and modular design but differ only in their use of colored output.
 
@@ -56,7 +58,3 @@ I built upon the original by making the game more interactive, user-friendly, an
 ---
 
 Enjoy the game, and happy guessing!
-
----
-
-*If you want me to add features like save/load profiles, multiplayer modes, or GUI versions, just ask!*
