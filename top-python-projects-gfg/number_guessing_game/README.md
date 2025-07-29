@@ -21,8 +21,9 @@ This project is a modular, user-friendly number guessing game with several impro
 
 ## Code Files
 
-* 🔸 **[`number_guessing_game_with_color.py`](./number_guessing_game_with_color.py)** — The main game script with color output using `colorama` for a more engaging terminal experience.
-* 🔹 **[`number_guessing_game_no_color.py`](./number_guessing_game_no_color.py)** — A plain version of the game without color — ideal for basic terminal environments or systems without color support.
+🔸 **[`number_guessing_game_with_color.py`](./number_guessing_game_with_color.py)** — The main game script with color output using `colorama` for a more engaging terminal experience.
+
+🔹 **[`number_guessing_game_no_color.py`](./number_guessing_game_no_color.py)** — A plain version of the game without color — ideal for basic terminal environments or systems without color support.
 
 
 
