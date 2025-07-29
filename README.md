@@ -11,6 +11,5 @@ This repo is a rebuild ground — each project is rewritten from scratch with fo
 ## 🔗 Source Articles
 
 * [Top Python Projects on GFG](https://www.geeksforgeeks.org/python-projects-beginner-to-advanced/)
-* [Beginner Python Project Ideas](https://www.geeksforgeeks.org/python-project-ideas/)
-* [Python Mini Projects](https://www.geeksforgeeks.org/python-mini-projects-with-source-code/)
+* [70+ Python Projects for Beginners](https://pythongeeks.org/python-projects/)
 
