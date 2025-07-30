@@ -1,7 +1,3 @@
-Absolutely — here’s a polished **README** for your upgraded **Rock-Paper-Scissors** project, modeled after the style you liked:
-
----
-
 # ✊🖐✌ Rock-Paper-Scissors (with AI, Modes, and Menu)
 
 This is an extended and interactive version of the classic **Rock-Paper-Scissors game** in Python, heavily enhanced from the original [GeeksforGeeks tutorial](https://www.geeksforgeeks.org/python/python-program-implement-rock-paper-scissor-game/).
@@ -104,7 +100,3 @@ This project is an advanced, user-focused upgrade from the basic version shared 
 [Python Rock Paper Scissor Game – GeeksforGeeks](https://www.geeksforgeeks.org/python/python-program-implement-rock-paper-scissor-game/)
 
 While the original demonstrates the core mechanics, this version expands it into a **fully interactive game**, complete with AI modes, menus, and performance tracking — perfect for learning and fun.
-
----
-
-Let me know if you'd like me to turn this into a proper `README.md` file or generate a GitHub-ready version!
