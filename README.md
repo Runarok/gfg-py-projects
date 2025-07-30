@@ -16,7 +16,7 @@ No frameworks. No overkill. Just small, focused rewrites that respect the origin
 Projects are grouped by their source article.
 Each source has its own folder. Inside, each project has its own directory with code and a minimal README.
 
-```
+<pre>
 gfg-py-projects/
 │
 ├── top-python-projects-gfg/
@@ -28,7 +28,7 @@ gfg-py-projects/
 │   ├── project-a/
 │   ├── project-b/
 │   └── ...
-```
+</pre>
 
 Each project contains:
 
