@@ -39,7 +39,7 @@ This project turns a simple terminal game into a **feature-rich, menu-driven exp
 
 Just run the script. You’ll see something like:
 
-```text
+<pre>
 👋 Welcome to Rock-Paper-Scissors!
 
 📜 WINNING RULES:
@@ -60,11 +60,11 @@ Choose mode (1/2/3): 1
 Choose difficulty (1/2/3): 2
 
 🕹 Tip: Type 5 at any time to open the menu (change difficulty, reset, or quit)
-```
+</pre>
 
 Then play rounds like this:
 
-```text
+<pre>
 Your move: [1] Rock  [2] Paper  [3] Scissors  [5] Menu
 Type your choice: 2
 
@@ -77,7 +77,7 @@ Type your choice: 2
 🤖 Computer Wins : 0
 🤝 Draws         : 0
 📈 Win Ratio     : 100.00%
-```
+</pre>
 
 ---
 
